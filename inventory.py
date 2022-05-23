@@ -3,7 +3,6 @@
 """
 from __future__ import annotations
 from os import path
-from tkinter.tix import INTEGER
 from typing import List, Dict, Optional, Union
 from tabulate import tabulate
 
